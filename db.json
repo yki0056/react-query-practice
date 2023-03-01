@@ -1,0 +1,141 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "flash",
+      "alterEgo": "Alan",
+      "id": 4
+    },
+    {
+      "name": "cat women",
+      "alterEgo": "jessica",
+      "id": 5
+    },
+    {
+      "name": "green arrow",
+      "alterEgo": "kevin",
+      "id": 6
+    },
+    {
+      "name": "ㅂㅂ",
+      "alterEgo": "ㅂㅂ",
+      "id": 7
+    },
+    {
+      "name": "ㅂㅂㅂ",
+      "alterEgo": "ㅂㅂㅂ",
+      "id": 8
+    }
+  ],
+  "enemies": [
+    {
+      "id": 1,
+      "name": "Joker",
+      "alterEgo": "Jack Oswald White"
+    },
+    {
+      "id": 2,
+      "name": "Riddler",
+      "alterEgo": "Edward Nygma"
+    },
+    {
+      "id": 3,
+      "name": "Penguin",
+      "alterEgo": "Oswald Chesterfield Cobblepot"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Matthew"
+    },
+    {
+      "id": 2,
+      "name": "Andrew"
+    },
+    {
+      "id": 3,
+      "name": "Timothy"
+    },
+    {
+      "id": 4,
+      "name": "Paul"
+    },
+    {
+      "id": 5,
+      "name": "Lee"
+    }
+  ],
+  "users": [
+    {
+      "id": "yki00562@gmail.com",
+      "channelId": "codeEvolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codeEvolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "orange"
+    },
+    {
+      "id": 3,
+      "label": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "green"
+    },
+    {
+      "id": 5,
+      "label": "blue"
+    },
+    {
+      "id": 6,
+      "label": "navy"
+    },
+    {
+      "id": 7,
+      "label": "purple"
+    },
+    {
+      "id": 8,
+      "label": "black"
+    },
+    {
+      "id": 9,
+      "label": "white"
+    },
+    {
+      "id": 10,
+      "label": "rainbow"
+    }
+  ]
+}
